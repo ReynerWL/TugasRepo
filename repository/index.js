@@ -1,5 +1,4 @@
 export default function Hello() {
-    console.log("Hello Reyner");
-    return
+    return "Hello Reyner"
 }
-Hello()
+console.log(Hello());
